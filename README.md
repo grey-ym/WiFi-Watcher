@@ -1,6 +1,6 @@
 # Wi-Fi SNMP Device Notifier
 
-This Python script scans a WiFi network for a specific device using SNMP.
+This Python script scans a Wi-Fi network for a specific device using SNMP.
 It performs a network check with the snmpwalk command and sends an SMTP email notification when the device is detected.
 ___
 **Requirements:**
